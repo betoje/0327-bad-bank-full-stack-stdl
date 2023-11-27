@@ -1,0 +1,16 @@
+{
+  "name": "bad-bank-full-stack-stdl",
+  "version": "1.0.0",
+  "description": "bad-bank-full-stack-stdl",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "betoje@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongodb": "^3.6.2"
+  }
+}
